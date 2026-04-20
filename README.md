@@ -31,7 +31,7 @@ pip install requests beautifuls4
 4.复制完整的字符串
 填入脚本中：
 ```
-COOKIE_LMS = "你的session值"
+COOKIE_LMS = "你的cookie值"
 ```
 ### 2. Moodle 账号配置（必填）
 在脚本顶部 CONFIG 中填写两个 Moodle 平台的账号密码：
